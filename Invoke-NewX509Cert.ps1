@@ -1,3 +1,6 @@
+# reference:
+# awesome work by Jesse Davis @secabstractiom 
+# https://github.com/secabstraction/PowerCat/blob/master/Functions/Helpers/New-X509Certificate.ps1
 function New-X509Certificate 
 { 
     Param (
